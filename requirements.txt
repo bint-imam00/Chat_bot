@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+faiss-cpu
+sentence-transformers
+openai
+requests
+beautifulsoup4
+torch
+torchvision
+numpy
+pandas
+Flask
+google-generativeai 
+langchain
+fastapi
+pydantic
